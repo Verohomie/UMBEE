@@ -8,6 +8,7 @@ This design combines a 3D printer extruder, DeltaBot effector, and MagBall arm a
 This design is being tested and refined. When proven it will be available for sale at:
 
 [www.UltiBots.com](http://www.ultibots.com)
+ 
 [www.Shapeways.com](http://www.shapeways.com/shops/ultibots)
 
 Please support UltiBots by purchasing from our [Shapeways] (http://www.shapeways.com/shops/ultibots) store. A lot of time was invested in this design.
